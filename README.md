@@ -14,8 +14,8 @@ Winning Conditions:
 -> Draw: If both you and the computer select the same option (e.g., both choose Stone), the game is a draw.
 
 # Technologies Used:
--> HTML
--> CSS
+-> HTML <br>
+-> CSS <br>
 -> JavaScript
 
 # Link:
