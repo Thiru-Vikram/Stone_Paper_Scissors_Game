@@ -7,7 +7,7 @@ This is Stone Paper Scissors game, built using HTML, CSS, and JavaScript. The pr
 -> After making your selection, the computer will also randomly choose one of these options.<br>
 -> The game will compare both selections and announce the result.
 
-Winning Conditions:
+Winning Conditions:<br>
 -> Stone beats Scissors: Stone crushes Scissors.<br>
 -> Scissors beats Paper: Scissors cut Paper.<br>
 -> Paper beats Stone: Paper covers Stone.<br>
